@@ -11,5 +11,4 @@
 > + Battalion Commander Driver
 
 > Baekjoon profile
-> + https://www.acmicpc.net/user/minhwan514
 > + [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minhwan514)](https://solved.ac/minhwan514)
