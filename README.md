@@ -6,6 +6,9 @@
 ## 2022
 > 가을경시프로그래밍 장려상 (Domodachi)
 
+## 2023
+> Dacon LG Aimers 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 본선 진출 (상위 3%)
+
 # Remarks
 > Republic of Korea Marine Corps
 > + Battalion Commander Driver
