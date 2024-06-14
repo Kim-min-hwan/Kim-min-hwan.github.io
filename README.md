@@ -2,9 +2,14 @@
 > KYUNGHEE UNIVERSITY
 > + B.S. in Department of Saftware Convergence (2019.03 - ing)
 
+# Skills
+> Python
+> C++
+
 # Awards
 ## 2022
 > 경희대학교 가을경시프로그래밍 장려상 (Domodachi)
+
 ## 2023
 > 경희대학교 해커톤(KHUTHON) 최우수상 (소융F4)
 > Dacon LG Aimers 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 본선 진출 (상위 3%)
@@ -13,7 +18,7 @@
 > 경희대학교 해커톤(KHUTHON) 우수상 (소융F4)
 
 # Remarks
-> Republic of Korea Marine Corps
+> Republic of Korea Marine Corps(2020.04 ~ 2021.10)
 > + Battalion Commander Driver
 
 # Activities
