@@ -7,11 +7,10 @@
 > 경희대학교 가을경시프로그래밍 장려상 (Domodachi)
 ## 2023
 > 경희대학교 해커톤(KHUTHON) 최우수상 (소융F4)
+> Dacon LG Aimers 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 본선 진출 (상위 3%)
+
 ## 2024
 > 경희대학교 해커톤(KHUTHON) 우수상 (소융F4)
-
-## 2023
-> Dacon LG Aimers 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 본선 진출 (상위 3%)
 
 # Remarks
 > Republic of Korea Marine Corps
