@@ -14,10 +14,6 @@
 >
 > 2024 경희대학교 해커톤(KHUTHON) 우수상 (소융F4)
 
-# Remarks
-> Republic of Korea Marine Corps(2020.04-2021.10)
-> + Battalion Commander Driver
-
 # Activities
 > 연세대학교 지진학 및 지구물리학 연구실 (2023.07-2024.05)
 >
